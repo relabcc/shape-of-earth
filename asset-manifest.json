@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shape-of-earth/static/css/main.472df209.css",
+    "main.js": "/shape-of-earth/static/js/main.fac796ce.js",
+    "static/js/787.c6f7c51d.chunk.js": "/shape-of-earth/static/js/787.c6f7c51d.chunk.js",
+    "index.html": "/shape-of-earth/index.html",
+    "main.472df209.css.map": "/shape-of-earth/static/css/main.472df209.css.map",
+    "main.fac796ce.js.map": "/shape-of-earth/static/js/main.fac796ce.js.map",
+    "787.c6f7c51d.chunk.js.map": "/shape-of-earth/static/js/787.c6f7c51d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.472df209.css",
+    "static/js/main.fac796ce.js"
+  ]
+}
